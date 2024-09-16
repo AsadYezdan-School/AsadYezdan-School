@@ -3,6 +3,8 @@
 
 **AsadYezdan-School/AsadYezdan-School**
 
+A repository for all things I do that I am required to do for school.
+
 
 
 - 🔭 I’m currently working on school stuff
