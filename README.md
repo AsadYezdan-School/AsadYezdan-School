@@ -3,7 +3,7 @@
 
 **AsadYezdan-School/AsadYezdan-School**
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on school stuff
 - 🌱 I’m currently learning Apache Kafka
