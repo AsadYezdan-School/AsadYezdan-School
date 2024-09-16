@@ -3,7 +3,7 @@
 
 **AsadYezdan-School/AsadYezdan-School**
 
-A repository for all things I do that I am required to do for school.
+A repository for all things I do that I am required to do for school at QMUL while I get my degree.
 
 
 
