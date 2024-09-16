@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello
 
-<!--
+
 **AsadYezdan-School/AsadYezdan-School** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,5 +10,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Croissants aren't originally from France.
 - 💬 Ask me about : Where croissants arent actually from.
 - 📫 How to reach me: yezdanasad@gmail.com
-
--->
